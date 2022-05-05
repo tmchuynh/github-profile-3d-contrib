@@ -7,7 +7,7 @@ export const NormalSettings: type.NormalColorSettings = {
     strongColor: '#111133',
     weakColor: 'gray',
     radarColor: '#47a042',
-    contribColors: ['#efefef', '#d8e887', '#8cc569', '#47a042', '#1d6a23'],
+    contribColors: ['#efefef', '#4078c0', '#6e5494', '#c9510c', '#bd2c00'],
 };
 
 export const HalloweenSettings: type.NormalColorSettings = {
@@ -93,7 +93,7 @@ export const GitBlockSettings: type.BitmapPatternSettings = {
     foregroundColor: '#00000f',
     strongColor: '#111133',
     weakColor: 'gray',
-    radarColor: '#47a042',
+    radarColor: '#a1242c',
     contribPatterns: [
         {
             top: {
